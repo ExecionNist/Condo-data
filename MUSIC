@@ -1,0 +1,216 @@
+{
+  "Audios": [
+    {
+      "Name": "Урал Гайсин - Она говорит отстань",
+      "AudioID": "rbxassetid://110618652881504",
+      "Speed": 0.75,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "Кишлак - Я диско шар",
+      "AudioID": "rbxassetid://111132588530114",
+      "Speed": 0.7,
+      "Volume": 10
+    },
+    {
+      "Name": "CUPSIZE - Фура",
+      "AudioID": "rbxassetid://130838248606832",
+      "Speed": 3,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "АПФС - Давай поправимся",
+      "AudioID": "rbxassetid://71383998303144",
+      "Speed": 3.3,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "Lil Peep - Save That ****",
+      "AudioID": "rbxassetid://115584816305154",
+      "Speed": 1.65,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "Madk1d - Так *****",
+      "AudioID": "rbxassetid://138636443968889",
+      "Speed": 2,
+      "Volume": 2
+    },
+    {
+      "Name": "ПМ - Школа",
+      "AudioID": "rbxassetid://104715350508064",
+      "Speed": 3.3,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "Whitek3d - Катюха",
+      "AudioID": "rbxassetid://71080146495717",
+      "Speed": 4,
+      "Volume": 3
+    },
+    {
+      "Name": "Zhanulka - Не я",
+      "AudioID": "rbxassetid://80403590040516",
+      "Speed": 3.25,
+      "Volume": 5
+    },
+    {
+      "Name": "Zhanulka -  Первый скилл",
+      "AudioID": "rbxassetid://79748128069460",
+      "Speed": 2.85,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "АПФС - Девочка",
+      "AudioID": "rbxassetid://100847277981788",
+      "Speed": 2,
+      "Volume": 2
+    },
+    {
+      "Name": "АПФС - П****",
+      "AudioID": "rbxassetid://108934780817042",
+      "Speed": 2.225,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "KBZ - От***",
+      "AudioID": "rbxassetid://77302460509575",
+      "Speed": 3.25,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "АС - Пожалуйста, только не домой",
+      "AudioID": "rbxassetid://99261924497623",
+      "Speed": 2,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "ДР - Лег в рехаб",
+      "AudioID": "rbxassetid://83946085625232",
+      "Speed": 4,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "ПМ - Молли",
+      "AudioID": "rbxassetid://117950127962040",
+      "Speed": 1.425,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "ПМ - Ханнамонтана",
+      "AudioID": "rbxassetid://128085148526272",
+      "Speed": 2,
+      "Volume": 10
+    },
+    {
+      "Name": "Morgenshtern - Почему?",
+      "AudioID": "rbxassetid://136043475840517",
+      "Speed": 2.5,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "ПолМ - Маша",
+      "AudioID": "rbxassetid://86372339852030",
+      "Speed": 3.5,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "Stephanie",
+      "AudioID": "rbxassetid://96242502852695",
+      "Speed": 2.85,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "Zhanulka - Ты спишь",
+      "AudioID": "rbxassetid://140702364336227",
+      "Speed": 3.25,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    },
+    {
+      "Name": "Tuborosho - Europa FM",
+      "AudioID": "rbxassetid://82544735035650",
+      "Speed": 2.85,
+      "Volume": 10,
+      "Equalizer": {
+        "LowGain": 10,
+        "MidGain": 10,
+        "HighGain": 10
+      }
+    }
+  ]
+}
